@@ -7,7 +7,7 @@ Setup
 -------------
 
 1) Wire up the cube layer transistors first.
-    Use pin 0 for the top layer.
+    	Use pin 0 for the top layer.
 	Use pin 1 for the middle layer.
 	Use pin 2 for the bottom layer.
 
