@@ -3,6 +3,8 @@
 
 Code for running a 3x3x3 LED cube with an Arduino Uno. Uses 12 I/O out of 14 on the Uno.
 
+See 'cube_chase' in action: http://youtu.be/KalYkLarVPs
+
 Setup
 -------------
 
